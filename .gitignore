@@ -1,0 +1,4 @@
+# type the names of files that we want git to ignore
+
+api-keys.txt
+
